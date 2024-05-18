@@ -1,2 +1,1 @@
-# gameygu-0213.github.io
- la website lmao
+THIS REPO USES THE docs FOLDER FROM PSYCH ENGINE'S 0.7.1h REPO AS A BASE CAUSE I CAN'T CODE HTML LMAO
